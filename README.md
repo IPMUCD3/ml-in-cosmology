@@ -638,18 +638,18 @@ Contributors to additions after June 2022 here:
 Derek Inman
 
 Contributors to the original repo (until June 2022):
-Philippe Berger
-Dana Simard
-Michelle Ntampaka
-Farida Farsian
-Celia Escamilla-Rivera
-Michaël Defferrard
-Farida Farsian
-Pranath Reddy
-Camille Avestruz
-Harry Bevins
-T. Lucas Makinen
-Francois Lanusse
-Snigdha Sen
-José Manuel Casas González
+Philippe Berger,
+Dana Simard,
+Michelle Ntampaka,
+Farida Farsian,
+Celia Escamilla-Rivera,
+Michaël Defferrard,
+Farida Farsian,
+Pranath Reddy,
+Camille Avestruz,
+Harry Bevins,
+T. Lucas Makinen,
+Francois Lanusse,
+Snigdha Sen,
+José Manuel Casas González,
 Himanshu Tiwari 
