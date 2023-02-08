@@ -1,6 +1,6 @@
 ## ml-in-cosmology
 
-A fork of George Stein's [initial list](https://github.com/georgestein/ml-in-cosmology) (updated until June 2022) of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. 
+A fork of George Stein's [initial list](https://github.com/georgestein/ml-in-cosmology) (updated until July 2022) of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. 
 
 Here, we (researchers at IPMU CD3) attempt to keep it up to date. 
 
@@ -634,10 +634,10 @@ Reviews of machine learning in cosmology, and, more broadly, machine learning in
 ---
 <a name='acknowledgments'></a>
 ## Acknowledgments
-Contributors to additions after June 2022 here:
+Contributors to additions from July 2022:
 Derek Inman
 
-Contributors to the original repo (until June 2022):
+Contributors to the original repo (until July 2022):
 Philippe Berger,
 Dana Simard,
 Michelle Ntampaka,
