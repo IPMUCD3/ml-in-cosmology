@@ -1,14 +1,11 @@
 ## ml-in-cosmology
-This github attempts to maintain a comprehensive list of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. I've also included some more obsevational galaxy studies.
 
-Each entry contains the paper title, a simple summary of the machine learning methods used in the work, and the arxiv link. If I have missed any papers that you believe should be included please email me at george.f.stein@gmail.com or issue a pull request. 
+A fork of George Stein's [initial list](https://github.com/georgestein/ml-in-cosmology) (updated until June 2022) of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. 
 
-For general reviews of the subject, or for public machine-learning ready datasets, see the resources at the bottom of this list. 
+Here, we (researchers at IPMU CD3) attempt to keep it up to date. 
 
-Feel free to cite in any works
+Please cite using George's link:
 [![DOI](https://zenodo.org/badge/160429652.svg)](https://zenodo.org/badge/latestdoi/160429652)
-
-I am currently a postdoctoral researcher at the Berkeley Center for Cosmological Physics and Lawrence Berkeley National Laboratory, broadly working on machine learning in cosmology. Cheers to whoever can find which of the papers below have me as a (co-)author :beers: 
 
 ---
 ### Table of Contents
@@ -29,7 +26,6 @@ I am currently a postdoctoral researcher at the Berkeley Center for Cosmological
 - [Public Datasets](#datasets)
 - [Reviews](#reviews)
 - [Acknowledgments](#acknowledgments)
-
 
 
 <a name='dictionary'></a>
@@ -638,35 +634,22 @@ Reviews of machine learning in cosmology, and, more broadly, machine learning in
 ---
 <a name='acknowledgments'></a>
 ## Acknowledgments
-Thanks to the following people for bringing additional papers to my attention!
+Contributors to additions after June 2022 here:
+Derek Inman
 
+Contributors to the original repo (until June 2022):
 Philippe Berger
-
 Dana Simard
-
 Michelle Ntampaka
-
 Farida Farsian
-
 Celia Escamilla-Rivera
-
 Michaël Defferrard
-
 Farida Farsian
-
 Pranath Reddy
-
 Camille Avestruz
-
 Harry Bevins
-
 T. Lucas Makinen
-
 Francois Lanusse
-
 Snigdha Sen
-
 José Manuel Casas González
-
 Himanshu Tiwari 
-
